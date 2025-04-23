@@ -1,7 +1,3 @@
-Sure! Here's a slightly longer but still concise README for your GitHub notebook:
-
----
-
 ## 📘 IMDB Sentiment Analysis using NLP
 
 This notebook explores **different approaches** to perform sentiment analysis on the **IMDB movie reviews dataset**, using various **NLP preprocessing techniques** and **machine learning models**.
